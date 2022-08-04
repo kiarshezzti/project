@@ -1,0 +1,46 @@
+body{
+    background-color: lightgray;
+    font-family: sans-serif;
+}
+.container{
+    box-sizing: border-box;
+    width: 500px;
+    height: 400ox;
+    background-color: #fff;
+    margin: auto; 
+    margin-top: 80px;
+    padding: 25px 0;
+    box-shadow: 0 0 15px #4c4d4c;
+    border-radius: 10px;
+}
+.kia{
+    width: 150px;
+    display: block;
+    margin: auto;
+    border: 2px;
+    border-style: dotted;
+    border-color: gray;
+    border-radius: 50%
+}
+.title{
+    margin: 25px auto;
+    width: 250px;
+    font-size: 27px;
+    border-bottom: 15px solid lightgray;
+    color: #4c4d4c;
+}
+.follow{
+    text-align: center;
+        color: #4c4d4c;
+}
+.socials{
+    height: 60px;
+    background-color: lightslategrey;
+    text-align: center;
+}
+.socials img{
+   width: 50px; 
+   height: 50px;
+    margin-left: 13px;
+    margin-top: 3px;
+}
